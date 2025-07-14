@@ -37,4 +37,5 @@
 ---
 #### 1. Download Installer Anaconda Apa
 ##### Buka https://www.anaconda.com/products/distribution - Pilih versi sesuai OS Anda (Windows/macOS/Linux) - Klik tombol Download
-
+---
+![image](https://github.com/nurazlina-4/TASK-SETUP-ANACONDA-UV/blob/main/anaconda%20awal.PNG)
